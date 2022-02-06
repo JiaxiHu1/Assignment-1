@@ -47,9 +47,7 @@ if txt in courses:
     print(courses[txt])
 else:
     print(txt, "is not in the courses dictionary")
-    '''
-    txt2 = input("Do you want to enter another course number?")
-    '''
+    
 
 
 
